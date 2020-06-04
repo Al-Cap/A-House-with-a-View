@@ -1,4 +1,4 @@
-![title.jpg](https://github.com/a-woodbury/Regression-King_County_House_Prices/blob/master/Resources/seattle-pano.jpg)
+![title.jpg](https://github.com/a-woodbury/Regression-King_County_House_Prices/blob/master/Resources/stl.jpg)
 
 **Subtitle**
 
