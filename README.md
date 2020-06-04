@@ -1,5 +1,3 @@
-![title.jpg](https://github.com/a-woodbury/Regression-King_County_House_Prices/blob/master/Resources/stl.jpg)
-
 <p align="center">
    <img src=https://github.com/a-woodbury/Regression-King_County_House_Prices/blob/master/Resources/stl.jpg />
 <div align="center">
