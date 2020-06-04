@@ -1,4 +1,4 @@
-![title.jpg](https://github.com/a-woodbury/Regression-King_County_House_Prices/blob/master/Resources/1280px-Downtown_Seattle_skyline_from_Kerry_Park_-_October_2019.jpg)
+![title.jpg](https://github.com/a-woodbury/Regression-King_County_House_Prices/blob/master/Resources/skyline.jpg)
 
 **Subtitle**
 
