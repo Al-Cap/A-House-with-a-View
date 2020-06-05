@@ -1,5 +1,5 @@
 <p align="center">
-   <img src=https://github.com/a-woodbury/Regression-King_County_House_Prices/blob/master/Resources/stlsplash.jpg />
+   <img src=https://github.com/a-woodbury/Regression-King_County_House_Prices/blob/master/Resources/stlsplash2.jpg />
 <div align="center">
    <figcaption></figcaption>
 </div>
