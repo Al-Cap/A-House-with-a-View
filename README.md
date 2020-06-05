@@ -10,6 +10,7 @@
 
 ### Overview
 
+The King County housing challenges data scientists to create a model for predicting home prices. We used the available features in addition to some engineered features in this pursuit, ultimately identifying location as the primary feature determing the price of a home. 
  
 
 ### Repository Navigation
