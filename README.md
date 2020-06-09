@@ -6,7 +6,7 @@
 </p>
 
 
-**Subtitle**
+**Predicting House prices in King County, WA**
 
 ### Overview
 
