@@ -24,14 +24,13 @@ Other              : <a href=Link>Recreating the Model Guide</a>, <a href=Link>D
 
 ### ReadME Navigation
 
-[Problem](https://github.com/a-woodbury/RxID/blob/master/README.md#problem) - 
-[Data](https://github.com/a-woodbury/RxID#data) -
-[Model](https://github.com/a-woodbury/RxID#model) -
-[Results](https://github.com/a-woodbury/RxID#results) - 
-[Recommendations](https://github.com/a-woodbury/RxID#recommendations) - 
-[Future](https://github.com/a-woodbury/RxID#future) - 
-[Project Info](https://github.com/a-woodbury/RxID#project-info) -
-[Works Cited](https://github.com/a-woodbury/RxID#works-cited)
+[Problem](https://github.com/a-woodbury/A-House-with-a-View/blob/master/README.md#problem) - 
+[Data](https://github.com/a-woodbury/A-House-with-a-View#data) -
+[Model](https://github.com/a-woodbury/A-House-with-a-View#model) -
+[Results](https://github.com/a-woodbury/A-House-with-a-View#results) - 
+[Recommendations](https://github.com/a-woodbury/A-House-with-a-View#recommendations) - 
+[Future](https://github.com/a-woodbury/A-House-with-a-View#future) - 
+[Project Info](https://github.com/a-woodbury/A-House-with-a-View#project-info) -
 
 
 
@@ -81,4 +80,3 @@ Techniques   :
 Application  : 
 </pre>
 
-## Works Cited
