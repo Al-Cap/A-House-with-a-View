@@ -16,10 +16,9 @@ The King County housing challenges data scientists to create a model for predict
 ### Repository Navigation
 <pre>
 Technical Notebook : <a href=Link>Technical Notebook </a>
-Other Notebooks    : <a href=https://github.com/a-woodbury/RxID/blob/master/RxID15_Modeling.ipynb>Modeling</a>, <a href=https://github.com/a-woodbury/RxID/blob/master/RxID15_Data_Collection.ipynb>Data Collection Notebook </a>
-Dataset Links      : <a href=https://www.nlm.nih.gov/databases/download/pill_image.html>NIH RxImage Portal</a>, <a href=Link>GCP Bucket</a>
-Presentation       : <a href=https://github.com/a-woodbury/RxID/blob/master/Presentation/RxID.pdf>Slide Deck</a>, <a href=https://docs.google.com/presentation/d/1f2bLza9GFhIXUAMudNsb00RTpHAwg5JegGIw2i2Jg8A/edit?usp=sharing>Google Slides</a>
-Other              : <a href=Link>Recreating the Model Guide</a>, <a href=Link>Drug Classes</a>
+Other Notebooks    : <a href=Link>Modeling</a>, <a href=Link>Data Collection Notebook </a>
+Dataset Links      : <a href=https://www.kaggle.com/harlfoxem/housesalesprediction>Kaggle: Houseing Prediction</a>
+Presentation       : <a href=https://github.com/a-woodbury/A-House-with-a-View/blob/master/Presentation/kch_presentation.pdf>Slide Deck</a>
 </pre>
 
 ### ReadME Navigation
@@ -33,7 +32,7 @@ Other              : <a href=Link>Recreating the Model Guide</a>, <a href=Link>D
 
 
 ## Data
-
+The dataset is obtained from Kaggle
 
 ## Model
 
@@ -48,11 +47,6 @@ Base | $193,094.98 | 1.00x
 98004 | $587,005.76 | 3.04x
 98040 | $463,427.95| 2.40x
 98033 | $409,361.36 | 2.12x
-
-### Improving the current model
-
-
-## Recommendations:
 
 ## Future
 
