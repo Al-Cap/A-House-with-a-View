@@ -60,6 +60,7 @@ Other              : <a href=Link>Recreating the Model Guide</a>, <a href=Link>D
 ## Project Info
 <pre>
 Contributors : <a href=https://github.com/a-woodbury>Alphonso Woodbury</a>
+               <a href=https://github.com/Joe-Bit-lab>Joseph McHugh</a>
 </pre>
 
 <pre>
@@ -70,7 +71,7 @@ Libraries    :
 
 <pre>
 Duration     : March 2020
-Last Update  : 05.20.2020
+Last Update  : 06.08.2020
 </pre>
 
 <pre>
