@@ -54,6 +54,9 @@ The dataset is obtained from [Kaggle Housing Prediction](https://www.kaggle.com/
 - Waterfront: boolean
 - has basement: boolean
 
+These features were fitted using statmodels OLS. 
+
+
 ## Results
 
 Explained variance: 80%
