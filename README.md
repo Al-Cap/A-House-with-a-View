@@ -32,7 +32,9 @@ Presentation       : <a href=https://github.com/a-woodbury/A-House-with-a-View/b
 
 
 ## Data
-The dataset is obtained from [Kaggle Housing Prediction](https://www.kaggle.com/harlfoxem/housesalesprediction). It includes just over 21,000 observations, each representing a home sold in King County, Washington, between May 2014 and 2015. The median price of the homes are $450,000, and 99% of the homes sold for less than $2 million. 
+The dataset is obtained from [Kaggle Housing Prediction](https://www.kaggle.com/harlfoxem/housesalesprediction). It includes just over 21,000 observations, each representing a home sold in King County, Washington, between May 2014 and 2015. The median price of the homes are $450,000, and 99% of the homes sold for less than $2 million.
+
+![price.png](https://github.com/a-woodbury/A-House-with-a-View/blob/master/Images/ppt_price99_hist.png)
 
 ## Modeling
 
@@ -43,8 +45,9 @@ The dataset is obtained from [Kaggle Housing Prediction](https://www.kaggle.com/
 - Price (target)
 - square feet of living space
 - square feet of lot
-- floor
+- floors
 - effective build: the number of years since the house was renovated (or built)
+![age.png](https://github.com/a-woodbury/A-House-with-a-View/blob/master/Images/ppt_age_bar.png)
 
 **Categorical**
 
