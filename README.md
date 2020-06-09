@@ -47,6 +47,11 @@ Other              : <a href=Link>Recreating the Model Guide</a>, <a href=Link>D
 
 ## Results
 
+We recognized early on that location has a prominent role in the selling price of a home. Our model clarified this hypothesis through zipcode feature weights:
+
+Zipcode | Price | Premium
+--- | --- | --- 
+Base | $193,094.98 | 1.00x
 
 ### Improving the current model
 
@@ -55,6 +60,7 @@ Other              : <a href=Link>Recreating the Model Guide</a>, <a href=Link>D
 
 ## Future
 
+To derive even more accurate results, we'd like to expand the project with additional data, specifically housing prices over time, quality of schools, crime metrics. Additionally, we know the kitchen is often the selling point in a house, so kitchen features would provide even further insight on a home's sellability.
 
 
 ## Project Info
@@ -66,7 +72,7 @@ Contributors : <a href=https://github.com/a-woodbury>Alphonso Woodbury</a>
 <pre>
 Languages    : Python
 Tools/IDE    : Anaconda, Colab
-Libraries    : 
+Libraries    : pandas, matplotlib, statsmodels, sklearn
 </pre>
 
 <pre>
@@ -74,10 +80,4 @@ Duration     : March 2020
 Last Update  : 06.08.2020
 </pre>
 
-<pre>
-Domain       : 
-Sub-Domain   : 
-Techniques   : 
-Application  : 
-</pre>
 
