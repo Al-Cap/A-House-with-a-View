@@ -49,9 +49,13 @@ Other              : <a href=Link>Recreating the Model Guide</a>, <a href=Link>D
 
 We recognized early on that location has a prominent role in the selling price of a home. Our model clarified this hypothesis through zipcode feature weights:
 
-Zipcode | Price | Premium
+Zipcode | Median Price | Premium
 --- | --- | --- 
 Base | $193,094.98 | 1.00x
+98039 | $668,108.63 | 3.46x
+98004 | $587,005.76 | 3.04x
+98040 | $463,427.95| 2.40x
+98033 | $409,361.36 | 2.12x
 
 ### Improving the current model
 
