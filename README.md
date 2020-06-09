@@ -46,7 +46,7 @@ The dataset is obtained from [Kaggle Housing Prediction](https://www.kaggle.com/
 - square feet of living space
 - square feet of lot
 - floors
-- effective build: the number of years since the house was renovated (or built) (also, see [heat map of house ages across King County](https://github.com/a-woodbury/A-House-with-a-View/blob/master/Images/rm_age_heat.png); it is interesting to see the newer renovations/constructions closer to city center correlating with higher prices; gentrification?
+- effective build: the number of years since the house was last renovated or built. Also, see [heat map of house ages across King County](https://github.com/a-woodbury/A-House-with-a-View/blob/master/Images/rm_age_heat.png); it is interesting to see the newer renovations/constructions closer to city center correlating with higher prices; gentrification?
 ![age.png](https://github.com/a-woodbury/A-House-with-a-View/blob/master/Images/ppt_age_bar.png)
 
 **Categorical**
