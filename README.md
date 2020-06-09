@@ -55,6 +55,9 @@ The dataset is obtained from [Kaggle Housing Prediction](https://www.kaggle.com/
 - Condition: 1 to 5 rating; an objective assessment of the cphysical condition of the home
 - View: 0 to 4 rating; a subjective assessment of the view from the property
 - Waterfront: boolean
+
+![waterfront.png](https://github.com/a-woodbury/A-House-with-a-View/blob/master/Images/ppt_waterfront_bar.png)
+
 - has basement: boolean
 
 These features were fitted using statmodels OLS. 
@@ -78,13 +81,6 @@ A major feature of location is the view from the property. We discovered homes w
 
 ![view.png](https://github.com/a-woodbury/A-House-with-a-View/blob/master/Images/ppt_view_bar.png)
 
-View | Median Price 
---- | --- 
-0 | $433,000
-1 | $691,944
-2 | $675,000
-3 | $800,000
-4 | $1,180,000
 
 This scatter/heatmap displays the view-price relationship. The relative geography of King County can be inferred; large blue regions are bodies of water (Pugot sound), larger points are higher prices. Notice the higher view ratings along water and near city center.
 
