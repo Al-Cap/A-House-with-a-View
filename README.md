@@ -81,6 +81,10 @@ View | Median Price
 3 | $800,000
 4 | $1,180,000
 
+This scatter/heatmap displays the view-price relationship; larger points are higher prices
+
+![view.png](https://github.com/a-woodbury/A-House-with-a-View/blob/master/Images/ppt_view_map.png)
+
 ## Future
 
 To derive even more accurate results, we'd like to expand the project with additional data, specifically housing prices over time, quality of schools, crime metrics. Additionally, we know the kitchen is often the selling point in a house, so kitchen features would provide even further insight on a home's sellability.
