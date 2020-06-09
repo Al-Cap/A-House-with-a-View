@@ -71,6 +71,16 @@ Base | $193,094.98 | 1.00x
 98040 | $463,427.95| 2.40x
 98033 | $409,361.36 | 2.12x
 
+A major feature of location is the view from the property. We discovered homes with a higher view rating are typically located on a waterfront or proximal to Seattle's central business district; these houses may provide visibility to downtown Seattle or another scene with high appeal. Additionally, the homes sell for more. 
+
+View | Median Price 
+--- | --- 
+0 | $433,000
+1 | $691,944
+2 | $675,000
+3 | $800,000
+4 | $1,180,000
+
 ## Future
 
 To derive even more accurate results, we'd like to expand the project with additional data, specifically housing prices over time, quality of schools, crime metrics. Additionally, we know the kitchen is often the selling point in a house, so kitchen features would provide even further insight on a home's sellability.
