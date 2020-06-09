@@ -82,7 +82,7 @@ A major feature of location is the view from the property. We discovered homes w
 ![view.png](https://github.com/a-woodbury/A-House-with-a-View/blob/master/Images/ppt_view_bar.png)
 
 
-This scatter/heatmap displays the view-price relationship. The relative geography of King County can be inferred; large blue regions are bodies of water (Pugot sound), larger points are higher prices. Notice the higher view ratings along water and near city center.
+This scatter/heatmap displays the view-price relationship. The relative geography of King County can be inferred; large blue regions are bodies of water (Pugot sound), larger points are higher prices. Notice the high view ratings and prices along water and near city center.
 
 ![view.png](https://github.com/a-woodbury/A-House-with-a-View/blob/master/Images/ppt_view_map.png)
 
