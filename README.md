@@ -32,11 +32,31 @@ Presentation       : <a href=https://github.com/a-woodbury/A-House-with-a-View/b
 
 
 ## Data
-The dataset is obtained from Kaggle
+The dataset is obtained from [Kaggle Housing Prediction](https://www.kaggle.com/harlfoxem/housesalesprediction). It includes just over 21,000 observations, each representing a home sold in King County, Washington, between May 2014 and 2015. The median price of the homes are $450,000, and 99% of the homes sold for less than $2 million. 
 
-## Model
+## Modeling
+
+### Features
+
+**Continuous**
+
+- Price (target)
+- square feet of living space
+- square feet of lot
+- floor
+- effective build: the number of years since the house was renovated (or built)
+
+**Categorical**
+
+- Zipcode (one hot encoded; total of 70)
+- Condition: 1 to 5 rating; an objective assessment of the cphysical condition of the home
+- View: 0 to 4 rating; a subjective assessment of the view from the property
+- Waterfront: boolean
+- has basement: boolean
 
 ## Results
+
+Explained variance: 80%
 
 We recognized early on that location has a prominent role in the selling price of a home. Our model clarified this hypothesis through zipcode feature weights:
 
