@@ -15,7 +15,7 @@ The King County housing challenges data scientists to create a model for predict
 
 ### Repository Navigation
 <pre>
-Technical Notebook : <a href=Link>Technical Notebook </a>
+Code               : <a href=https://github.com/a-woodbury/A-House-with-a-View/blob/master/Notebooks/JM_modelling.ipynb>Modeling Notebook </a>
 Other Notebooks    : <a href=Link>Modeling</a>, <a href=Link>Data Collection Notebook </a>
 Dataset Links      : <a href=https://www.kaggle.com/harlfoxem/housesalesprediction>Kaggle: Houseing Prediction</a>
 Presentation       : <a href=https://github.com/a-woodbury/A-House-with-a-View/blob/master/Presentation/kch_presentation.pdf>Slide Deck</a>
