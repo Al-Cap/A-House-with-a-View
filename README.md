@@ -81,7 +81,7 @@ View | Median Price
 3 | $800,000
 4 | $1,180,000
 
-This scatter/heatmap displays the view-price relationship; larger points are higher prices
+This scatter/heatmap displays the view-price relationship. The relative geography of King County can be inferred; large blue regions are bodies of water (Pugot sound), larger points are higher prices. Notice the higher view ratings along water and near city center.
 
 ![view.png](https://github.com/a-woodbury/A-House-with-a-View/blob/master/Images/ppt_view_map.png)
 
