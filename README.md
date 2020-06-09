@@ -76,6 +76,8 @@ Base | $193,094.98 | 1.00x
 
 A major feature of location is the view from the property. We discovered homes with a higher view rating are typically located on a waterfront or proximal to Seattle's central business district; these houses may provide visibility to downtown Seattle or another scene with high appeal. Additionally, the homes sell for more. 
 
+![view.png](https://github.com/a-woodbury/A-House-with-a-View/blob/master/Images/ppt_view_bar.png)
+
 View | Median Price 
 --- | --- 
 0 | $433,000
